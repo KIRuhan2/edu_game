@@ -1,9 +1,4 @@
 module.exports = {
-    configureWebpack: {
-      output: {
-          path: __dirname + "/cool-build"
-      }
-  },
   devServer: {
       disableHostCheck: true
   },
