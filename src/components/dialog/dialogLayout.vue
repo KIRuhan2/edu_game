@@ -80,6 +80,8 @@ export default {
 }
 .dialogLayout{
     display: flex;
+    position: absolute;
+    width: 100%;
     align-items: flex-end;
 }
 </style>

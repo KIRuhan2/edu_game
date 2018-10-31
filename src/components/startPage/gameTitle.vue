@@ -22,6 +22,7 @@ export default {
   src: url('../../assets/fonts/izhitsa-cyrillic.ttf');
 }
 p{
+  text-align: center;
   font-size: 3em;
   color:#f4af55;
   font-family: izhitsa-cyrillic;

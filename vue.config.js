@@ -1,4 +1,12 @@
 module.exports = {
+    configureWebpack: {
+      output: {
+          path: __dirname + "/cool-build"
+      }
+  },
+  devServer: {
+      disableHostCheck: true
+  },
   chainWebpack: (config) => {
     const svgRule = config.module.rule('svg');
  
