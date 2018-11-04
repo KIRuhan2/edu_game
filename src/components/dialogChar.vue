@@ -4,6 +4,9 @@
 </template>
 
 <script>
+
+// Чары:  professor_Physics, professor_Math, kosopuz
+
 import professorMath from '../assets/images/professor1.svg'
 export default {
 	name:'dialogChar',

@@ -1,5 +1,6 @@
 <template>
     <div class = "cloud">
+        <slot name = "char_name"></slot>
         <slot></slot>
         <slot name = 'skipButton'></slot>
     </div>
