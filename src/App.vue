@@ -189,6 +189,7 @@ export default {
         case(2004):
           this.page.status = 'mapview'
           this.page.bg = null
+          this.page.game = null
         break        
         case(3001):
           this.page.status = 'mapview'
