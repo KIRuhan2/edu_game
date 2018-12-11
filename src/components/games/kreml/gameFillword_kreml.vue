@@ -12,7 +12,11 @@
             </div>
         </div>
         <div class="pc_parts">
-            <div class = "pc_part" :key="item.id" :style="{backgroundImage: getPath(!item.active?item.image+'-disable':item.image)}" v-for="item in fillwordItems"></div>
+            <div class = "pc_part"
+                :key="item.id"
+                :style="{backgroundImage: getPath(!item.active?item.image+'-disable':item.image)}"
+                v-for="item in fillwordItems">
+            </div>
         </div>
     </div>
 </template>
@@ -30,7 +34,7 @@ export default {
                 {
                     id:0,
                     answer:'мышь',
-                    active: false,
+                    active: false,  
                     style:{},
                     image: 'mouse'
                 },
@@ -78,16 +82,30 @@ export default {
                 },
                 {
                     id:7,
-                    answer:'системныйблок',
+                    answer:'корпус',
                     active: false,
                     style:{},
                     image: 'case'
-                }                                                       
+                },
+                {
+                    id:8,
+                    answer:'монитор',
+                    active: false,
+                    style:{},
+                    image: 'monitor'
+                },    
+                {
+                    id:9,
+                    answer:'принтер',
+                    active: false,
+                    style:{},
+                    image: 'printer'
+                }                                                                                    
             ],
             fillwordData: data.fillword,
             activeIndexes: [],
             activeText: [],
-            fillwordText:'дискклапвиыйаодгвашрнбнворимятмлокпратуьеарвломррмтктиюциоаосоанчестиниемьерсорасдышсеирптвиреттнпла',
+            fillwordText:'дискклатямкородгвьмасупвориноперокпраитятарвлотаоанктиюцуррниоанчестивремьерсорипдышсеирптвиретопера',
         }
     },
     methods:{
@@ -170,12 +188,12 @@ export default {
         }
     },
     computed:{
-    //     fillwordData:{
-    //          get(){
+    // 
+    //          makeFillWordData(str){
     //              let rows = 0
     //              let lettersCount = 0
     //              let toReturn = []
-    //              this.fillwordText.split('').forEach(letter=>{
+    //              str.split('').forEach(letter=>{
     //                  if(!toReturn[rows]) toReturn.splice(rows,1,[])
     //                  toReturn[rows].push({
     //                      text:letter,
@@ -244,6 +262,5 @@ export default {
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain; 
-        height: 180px;
     }
 </style>

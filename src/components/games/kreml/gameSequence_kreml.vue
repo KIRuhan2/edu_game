@@ -18,60 +18,105 @@
 </template>
 <script>
 import {bus} from '../../../main.js'
+import { defaultCoreCipherList } from 'constants';
 export default {
     name:'gameSequence_kreml',
-    props:['gameEnd'],
+    props:['gameEnd', 'gameActions'],
     data:function(){
         return{
-            actions:[
-                {
-                    text:'Включить компьютер.',
-                    id:2,
-                    order:1,
-                    drag:false,
-                    style: {},
-                },
-                {
-                    text:'Собрать минимальный набор устройств ПК.',
-                    id:1,
-                    order:2,
-                    drag:false,
-                    style: {},
-                },
-                {
-                    text:'Найти и распечатать файл Архивариуса.',
-                    id:4,
-                    order:3,
-                    drag:false,
-                    style: {},
-                },
-                {
-                    text:'Установить необходимое программного обеспечение',
-                    id:3,
-                    order:4,
-                    drag:false,
-                    style: {},
-                },
-            ]
+            actions:{
+                default:[
+                    {
+                        text:'Включить компьютер.',
+                        id:2,
+                        order:1,
+                        drag:false,
+                        style: {},
+                    },
+                    {
+                        text:'Собрать минимальный набор устройств ПК.',
+                        id:1,
+                        order:2,
+                        drag:false,
+                        style: {},
+                    },
+                    {
+                        text:'Найти и распечатать файл Архивариуса.',
+                        id:4,
+                        order:3,
+                        drag:false,
+                        style: {},
+                    },
+                    {
+                        text:'Установить необходимое программного обеспечение',
+                        id:3,
+                        order:4,
+                        drag:false,
+                        style: {},
+                    },
+                ],
+                programs:[
+                    {
+                        text:'Сервисные программы',
+                        id:2,
+                        order:1,
+                        drag:false,
+                        style: {},
+                    },
+                    {
+                        text:'Операционная система',
+                        id:1,
+                        order:2,
+                        drag:false,
+                        style: {},
+                    },
+                    {
+                        text:'Системы программирования',
+                        id:4,
+                        order:3,
+                        drag:false,
+                        style: {},
+                    },
+                    {
+                        text:'Прикладное ПО',
+                        id:3,
+                        order:4,
+                        drag:false,
+                        style: {},
+                    },
+                ]
+            }
 
         }
     },
     computed:{
         actionsOrder:function(){
             // eslint-disable-next-line
-            return(this.actions.sort((a,b)=>(a.order-b.order)))
-        }
+            let action =  this.gameActions || 'default'
+            return(this.actions[action].sort((a,b)=>(a.order-b.order)))
+        },
+
     },
     methods:{
         check(){
-            let dialogCallabackId = 1102
+            let dialogCallbackId
+            if(this.gameActions == 'default'){
+                dialogCallbackId = 1102
+            }else if(this.gameActions == 'programs'){
+                dialogCallbackId = 1103
+            }
             this.actionsOrder.forEach((action)=>{
                 if(action.order != action.id){
-                    dialogCallabackId = 1101
+                    dialogCallbackId = 1101
                 }
             })
-            dialogCallabackId == 1102 ? this.gameEnd('sequence') : ''
-            bus.$emit('dialogAction', dialogCallabackId) // 1102 — correct dialog, 1101 — dailog if user made mistake
+            console.log('sequence_'+this.gameActions)
+            if(dialogCallbackId == 1102 || dialogCallbackId == 1103){
+                this.gameEnd('sequence_'+this.gameActions)
+            }else{
+                bus.$emit('dialogAction', dialogCallbackId)
+            }
+            
         },
         doDrag(event){
             this.actionsOrder.forEach(action => {

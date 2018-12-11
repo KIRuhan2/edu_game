@@ -36,7 +36,6 @@ export default {
         activeCharName:function(){
             return(this.dialog.body[this.activeIndex].name)
         },
-
         charNamePosition:function(){
             return(this.dialog.body[this.activeIndex].name != 'Косопуз' ? 'char_name__right' : '')
         }

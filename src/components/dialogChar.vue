@@ -1,11 +1,14 @@
 <template>
     <professorMath v-if="type == 'professor_Math'"></professorMath>
 	<div v-else-if="type == 'professor_Physics'" class = "professor2"></div>
+	<div v-else-if="type == 'traveller'" class = "traveller"></div>
+	<div v-else-if="type == 'sportsman'" class = "sportsman"></div>
+	<div v-else-if="type == 'academy'" class = "academy"></div>
 </template>
 
 <script>
 
-// Чары:  professor_Physics, professor_Math, kosopuz
+// Чары:  professor_Physics, professor_Math, kosopuz, traveller, sportsman
 
 import professorMath from '../assets/images/professor1.svg'
 export default {
@@ -18,10 +21,25 @@ export default {
 </script>
 
 <style>
+	.sportsman{
+		width: 260px;
+		height: 450px;
+		background: url(../assets/images/sportsman.png) no-repeat center;		
+	}
 	.professor2{
 		width: 250px;
 		height: 450px;
 		background: url(../assets/images/professor2.png) no-repeat center;
+	}
+	.traveller{
+		width: 250px;
+		height: 490px;
+		background: url(../assets/images/traveller.png) no-repeat center;
+	}
+	.academy{
+		width: 250px;
+		height: 390px;
+		background: url(../assets/images/academy.png) no-repeat center;
 	}
 	.st0{fill:#AA6F3D;}
 	.st1{fill:#774829;}

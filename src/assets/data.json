@@ -1,5 +1,5 @@
 {
-    "fillword": [[{"text":"д","x":0,"y":0,"id":"00","style":{},"active":false},{"text":"и","x":1,"y":0,"id":"10","style":{},"active":false},{"text":"с","x":2,"y":0,"id":"20","style":{},"active":false},{"text":"к","x":3,"y":0,"id":"30","style":{},"active":false},{"text":"к","x":4,"y":0,"id":"40","style":{},"active":false},{"text":"л","x":5,"y":0,"id":"50","style":{},"active":false},{"text":"а","x":6,"y":0,"id":"60","style":{},"active":false},{"text":"т","x":7,"y":0,"id":"70","style":{},"active":false},{"text":"ь","x":8,"y":0,"id":"80","style":{},"active":false},{"text":"и","x":9,"y":0,"id":"90","style":{},"active":false}],[{"text":"ы","x":0,"y":1,"id":"01","style":{},"active":false},{"text":"й","x":1,"y":1,"id":"11","style":{},"active":false},{"text":"а","x":2,"y":1,"id":"21","style":{},"active":false},{"text":"о","x":3,"y":1,"id":"31","style":{},"active":false},{"text":"д","x":4,"y":1,"id":"41","style":{},"active":false},{"text":"г","x":5,"y":1,"id":"51","style":{},"active":false},{"text":"в","x":6,"y":1,"id":"61","style":{},"active":false},{"text":"я","x":7,"y":1,"id":"71","style":{},"active":false},{"text":"ш","x":8,"y":1,"id":"81","style":{},"active":false},{"text":"р","x":9,"y":1,"id":"91","style":{},"active":false}],[{"text":"н","x":0,"y":2,"id":"02","style":{},"active":false},{"text":"б","x":1,"y":2,"id":"12","style":{},"active":false},{"text":"н","x":2,"y":2,"id":"22","style":{},"active":false},{"text":"в","x":3,"y":2,"id":"32","style":{},"active":false},{"text":"о","x":4,"y":2,"id":"42","style":{},"active":false},{"text":"р","x":5,"y":2,"id":"52","style":{},"active":false},{"text":"и","x":6,"y":2,"id":"62","style":{},"active":false},{"text":"м","x":7,"y":2,"id":"72","style":{},"active":false},{"text":"а","x":8,"y":2,"id":"82","style":{},"active":false},{"text":"п","x":9,"y":2,"id":"92","style":{},"active":false}],[{"text":"м","x":0,"y":3,"id":"03","style":{},"active":false},{"text":"л","x":1,"y":3,"id":"13","style":{},"active":false},{"text":"о","x":2,"y":3,"id":"23","style":{},"active":false},{"text":"к","x":3,"y":3,"id":"33","style":{},"active":false},{"text":"п","x":4,"y":3,"id":"43","style":{},"active":false},{"text":"р","x":5,"y":3,"id":"53","style":{},"active":false},{"text":"а","x":6,"y":3,"id":"63","style":{},"active":false},{"text":"т","x":7,"y":3,"id":"73","style":{},"active":false},{"text":"у","x":8,"y":3,"id":"83","style":{},"active":false},{"text":"я","x":9,"y":3,"id":"93","style":{},"active":false}],[{"text":"е","x":0,"y":4,"id":"04","style":{},"active":false},{"text":"а","x":1,"y":4,"id":"14","style":{},"active":false},{"text":"р","x":2,"y":4,"id":"24","style":{},"active":false},{"text":"в","x":3,"y":4,"id":"34","style":{},"active":false},{"text":"л","x":4,"y":4,"id":"44","style":{},"active":false},{"text":"о","x":5,"y":4,"id":"54","style":{},"active":false},{"text":"м","x":6,"y":4,"id":"64","style":{},"active":false},{"text":"р","x":7,"y":4,"id":"74","style":{},"active":false},{"text":"р","x":8,"y":4,"id":"84","style":{},"active":false},{"text":"а","x":9,"y":4,"id":"94","style":{},"active":false}],[{"text":"т","x":0,"y":5,"id":"05","style":{},"active":false},{"text":"к","x":1,"y":5,"id":"15","style":{},"active":false},{"text":"т","x":2,"y":5,"id":"25","style":{},"active":false},{"text":"и","x":3,"y":5,"id":"35","style":{},"active":false},{"text":"ю","x":4,"y":5,"id":"45","style":{},"active":false},{"text":"ц","x":5,"y":5,"id":"55","style":{},"active":false},{"text":"и","x":6,"y":5,"id":"65","style":{},"active":false},{"text":"о","x":7,"y":5,"id":"75","style":{},"active":false},{"text":"а","x":8,"y":5,"id":"85","style":{},"active":false},{"text":"н","x":9,"y":5,"id":"95","style":{},"active":false}],[{"text":"с","x":0,"y":6,"id":"06","style":{},"active":false},{"text":"о","x":1,"y":6,"id":"16","style":{},"active":false},{"text":"а","x":2,"y":6,"id":"26","style":{},"active":false},{"text":"н","x":3,"y":6,"id":"36","style":{},"active":false},{"text":"ч","x":4,"y":6,"id":"46","style":{},"active":false},{"text":"е","x":5,"y":6,"id":"56","style":{},"active":false},{"text":"с","x":6,"y":6,"id":"66","style":{},"active":false},{"text":"т","x":7,"y":6,"id":"76","style":{},"active":false},{"text":"и","x":8,"y":6,"id":"86","style":{},"active":false},{"text":"в","x":9,"y":6,"id":"96","style":{},"active":false}],[{"text":"и","x":0,"y":7,"id":"07","style":{},"active":false},{"text":"е","x":1,"y":7,"id":"17","style":{},"active":false},{"text":"м","x":2,"y":7,"id":"27","style":{},"active":false},{"text":"ь","x":3,"y":7,"id":"37","style":{},"active":false},{"text":"е","x":4,"y":7,"id":"47","style":{},"active":false},{"text":"р","x":5,"y":7,"id":"57","style":{},"active":false},{"text":"с","x":6,"y":7,"id":"67","style":{},"active":false},{"text":"о","x":7,"y":7,"id":"77","style":{},"active":false},{"text":"р","x":8,"y":7,"id":"87","style":{},"active":false},{"text":"и","x":9,"y":7,"id":"97","style":{},"active":false}],[{"text":"с","x":0,"y":8,"id":"08","style":{},"active":false},{"text":"д","x":1,"y":8,"id":"18","style":{},"active":false},{"text":"ы","x":2,"y":8,"id":"28","style":{},"active":false},{"text":"ш","x":3,"y":8,"id":"38","style":{},"active":false},{"text":"с","x":4,"y":8,"id":"48","style":{},"active":false},{"text":"е","x":5,"y":8,"id":"58","style":{},"active":false},{"text":"и","x":6,"y":8,"id":"68","style":{},"active":false},{"text":"р","x":7,"y":8,"id":"78","style":{},"active":false},{"text":"п","x":8,"y":8,"id":"88","style":{},"active":false},{"text":"т","x":9,"y":8,"id":"98","style":{},"active":false}],[{"text":"в","x":0,"y":9,"id":"09","style":{},"active":false},{"text":"и","x":1,"y":9,"id":"19","style":{},"active":false},{"text":"р","x":2,"y":9,"id":"29","style":{},"active":false},{"text":"е","x":3,"y":9,"id":"39","style":{},"active":false},{"text":"т","x":4,"y":9,"id":"49","style":{},"active":false},{"text":"о","x":5,"y":9,"id":"59","style":{},"active":false},{"text":"п","x":6,"y":9,"id":"69","style":{},"active":false},{"text":"е","x":7,"y":9,"id":"79","style":{},"active":false},{"text":"р","x":8,"y":9,"id":"89","style":{},"active":false},{"text":"а","x":9,"y":9,"id":"99","style":{},"active":false}]],
+    "fillword":[[{"text":"д","x":0,"y":0,"id":"00","style":{},"active":false},{"text":"и","x":1,"y":0,"id":"10","style":{},"active":false},{"text":"с","x":2,"y":0,"id":"20","style":{},"active":false},{"text":"к","x":3,"y":0,"id":"30","style":{},"active":false},{"text":"к","x":4,"y":0,"id":"40","style":{},"active":false},{"text":"л","x":5,"y":0,"id":"50","style":{},"active":false},{"text":"а","x":6,"y":0,"id":"60","style":{},"active":false},{"text":"т","x":7,"y":0,"id":"70","style":{},"active":false},{"text":"я","x":8,"y":0,"id":"80","style":{},"active":false},{"text":"м","x":9,"y":0,"id":"90","style":{},"active":false}],[{"text":"к","x":0,"y":1,"id":"01","style":{},"active":false},{"text":"о","x":1,"y":1,"id":"11","style":{},"active":false},{"text":"р","x":2,"y":1,"id":"21","style":{},"active":false},{"text":"о","x":3,"y":1,"id":"31","style":{},"active":false},{"text":"д","x":4,"y":1,"id":"41","style":{},"active":false},{"text":"г","x":5,"y":1,"id":"51","style":{},"active":false},{"text":"в","x":6,"y":1,"id":"61","style":{},"active":false},{"text":"ь","x":7,"y":1,"id":"71","style":{},"active":false},{"text":"з","x":8,"y":1,"id":"81","style":{},"active":false},{"text":"а","x":9,"y":1,"id":"91","style":{},"active":false}],[{"text":"с","x":0,"y":2,"id":"02","style":{},"active":false},{"text":"у","x":1,"y":2,"id":"12","style":{},"active":false},{"text":"п","x":2,"y":2,"id":"22","style":{},"active":false},{"text":"в","x":3,"y":2,"id":"32","style":{},"active":false},{"text":"о","x":4,"y":2,"id":"42","style":{},"active":false},{"text":"р","x":5,"y":2,"id":"52","style":{},"active":false},{"text":"и","x":6,"y":2,"id":"62","style":{},"active":false},{"text":"н","x":7,"y":2,"id":"72","style":{},"active":false},{"text":"м","x":8,"y":2,"id":"82","style":{},"active":false},{"text":"п","x":9,"y":2,"id":"92","style":{},"active":false}],[{"text":"е","x":0,"y":3,"id":"03","style":{},"active":false},{"text":"р","x":1,"y":3,"id":"13","style":{},"active":false},{"text":"о","x":2,"y":3,"id":"23","style":{},"active":false},{"text":"к","x":3,"y":3,"id":"33","style":{},"active":false},{"text":"п","x":4,"y":3,"id":"43","style":{},"active":false},{"text":"р","x":5,"y":3,"id":"53","style":{},"active":false},{"text":"а","x":6,"y":3,"id":"63","style":{},"active":false},{"text":"и","x":7,"y":3,"id":"73","style":{},"active":false},{"text":"о","x":8,"y":3,"id":"83","style":{},"active":false},{"text":"я","x":9,"y":3,"id":"93","style":{},"active":false}],[{"text":"т","x":0,"y":4,"id":"04","style":{},"active":false},{"text":"а","x":1,"y":4,"id":"14","style":{},"active":false},{"text":"р","x":2,"y":4,"id":"24","style":{},"active":false},{"text":"в","x":3,"y":4,"id":"34","style":{},"active":false},{"text":"л","x":4,"y":4,"id":"44","style":{},"active":false},{"text":"о","x":5,"y":4,"id":"54","style":{},"active":false},{"text":"т","x":6,"y":4,"id":"64","style":{},"active":false},{"text":"а","x":7,"y":4,"id":"74","style":{},"active":false},{"text":"н","x":8,"y":4,"id":"84","style":{},"active":false},{"text":"а","x":9,"y":4,"id":"94","style":{},"active":false}],[{"text":"н","x":0,"y":5,"id":"05","style":{},"active":false},{"text":"к","x":1,"y":5,"id":"15","style":{},"active":false},{"text":"т","x":2,"y":5,"id":"25","style":{},"active":false},{"text":"и","x":3,"y":5,"id":"35","style":{},"active":false},{"text":"ю","x":4,"y":5,"id":"45","style":{},"active":false},{"text":"ц","x":5,"y":5,"id":"55","style":{},"active":false},{"text":"у","x":6,"y":5,"id":"65","style":{},"active":false},{"text":"р","x":7,"y":5,"id":"75","style":{},"active":false},{"text":"и","x":8,"y":5,"id":"85","style":{},"active":false},{"text":"н","x":9,"y":5,"id":"95","style":{},"active":false}],[{"text":"и","x":0,"y":6,"id":"06","style":{},"active":false},{"text":"о","x":1,"y":6,"id":"16","style":{},"active":false},{"text":"а","x":2,"y":6,"id":"26","style":{},"active":false},{"text":"н","x":3,"y":6,"id":"36","style":{},"active":false},{"text":"ч","x":4,"y":6,"id":"46","style":{},"active":false},{"text":"е","x":5,"y":6,"id":"56","style":{},"active":false},{"text":"с","x":6,"y":6,"id":"66","style":{},"active":false},{"text":"т","x":7,"y":6,"id":"76","style":{},"active":false},{"text":"т","x":8,"y":6,"id":"86","style":{},"active":false},{"text":"в","x":9,"y":6,"id":"96","style":{},"active":false}],[{"text":"р","x":0,"y":7,"id":"07","style":{},"active":false},{"text":"е","x":1,"y":7,"id":"17","style":{},"active":false},{"text":"м","x":2,"y":7,"id":"27","style":{},"active":false},{"text":"ь","x":3,"y":7,"id":"37","style":{},"active":false},{"text":"е","x":4,"y":7,"id":"47","style":{},"active":false},{"text":"р","x":5,"y":7,"id":"57","style":{},"active":false},{"text":"с","x":6,"y":7,"id":"67","style":{},"active":false},{"text":"о","x":7,"y":7,"id":"77","style":{},"active":false},{"text":"о","x":8,"y":7,"id":"87","style":{},"active":false},{"text":"и","x":9,"y":7,"id":"97","style":{},"active":false}],[{"text":"п","x":0,"y":8,"id":"08","style":{},"active":false},{"text":"д","x":1,"y":8,"id":"18","style":{},"active":false},{"text":"ы","x":2,"y":8,"id":"28","style":{},"active":false},{"text":"ш","x":3,"y":8,"id":"38","style":{},"active":false},{"text":"с","x":4,"y":8,"id":"48","style":{},"active":false},{"text":"е","x":5,"y":8,"id":"58","style":{},"active":false},{"text":"и","x":6,"y":8,"id":"68","style":{},"active":false},{"text":"р","x":7,"y":8,"id":"78","style":{},"active":false},{"text":"р","x":8,"y":8,"id":"88","style":{},"active":false},{"text":"т","x":9,"y":8,"id":"98","style":{},"active":false}],[{"text":"в","x":0,"y":9,"id":"09","style":{},"active":false},{"text":"и","x":1,"y":9,"id":"19","style":{},"active":false},{"text":"р","x":2,"y":9,"id":"29","style":{},"active":false},{"text":"е","x":3,"y":9,"id":"39","style":{},"active":false},{"text":"т","x":4,"y":9,"id":"49","style":{},"active":false},{"text":"о","x":5,"y":9,"id":"59","style":{},"active":false},{"text":"п","x":6,"y":9,"id":"69","style":{},"active":false},{"text":"е","x":7,"y":9,"id":"79","style":{},"active":false},{"text":"р","x":8,"y":9,"id":"89","style":{},"active":false},{"text":"а","x":9,"y":9,"id":"99","style":{},"active":false}]],
     "savePoints": [{
             "text": "Кремль последовательность",
             "id": 0,
@@ -23,7 +23,46 @@
             "allowedToClick": [
                 "kreml"
             ]
-        }
+        },
+        {
+            "text":"Кремль ПО",
+            "id":2,
+            "page":{
+                "bg":"kreml",
+                "status":"mapview",
+                "game":"kreml_po"
+            }
+        },
+        {
+            "text":"Центр",
+            "id":3,
+            "page":{
+                "bg":null,
+                "status":"mapview",
+                "game":null
+            },
+            "allowedToClick":["center"]
+        },
+        {
+            "text":"Памятник",
+            "id":4,
+            "page":{
+                "bg":null,
+                "status":"mapview",
+                "game":null
+            },
+            "allowedToClick":["grib_monument"]
+        },
+        {
+            "text":"Парк",
+            "id":5,
+            "page":{
+                "bg":null,
+                "status":"mapview",
+                "game":null
+            },
+            "allowedToClick":["park"]
+        }                 
     ],
     "dialogs": [{
             "id": 1,
@@ -41,7 +80,8 @@
         },
         {
             "id": 2,
-            "body": [{
+            "body": [
+                {
                     "text": "Здравствуйте, ребята! Чем я могу вам помочь?",
                     "name": "Архивариус",
                     "char": "professor_Physics"
@@ -108,12 +148,239 @@
             }]
         },
         {
-            "id": 1202,
+            "id": 1103,
             "body": [{
-                "text": "Молодец! Компьютер собран и включен, но работать с ним нельзя, пока мы не установим программное обеспечение. Сначала надо определить порядок установки ПО, а затем подобрать соответствующие программы для каждой группы ПО.",
+                "text": "Хорошо, разобрались. Теперь мы сможем установить все что нам нужно",
                 "name": "Косопуз",
                 "char": "kosopuz"
             }]
-        }        
+        },         
+        {
+            "id": 1202,
+            "body": [
+                {
+                    "text": "Отлично! Компьютер собран. Нужно двигаться дальше",
+                    "name": "Косопуз",
+                    "char": "kosopuz"
+                },
+                {
+                    "text": "Нужно определить в каком порядке устанавливать програмное обеспечение",
+                    "name": "Косопуз",
+                    "char":"kosopuz"
+                }
+            ]
+        },       
+        {
+            "id":1301,
+            "body":[
+                {
+                    "text":"Ого, а ты в этом разбираешься. У нас есть список ПО и порядок в котором его нужно устанавливать. Но я не знаю что тут к чему относится.",
+                    "name":"Косопуз",
+                    "char":"kosopuz"
+                },
+                {
+                    "text": "Распредели ПО по группам, чтобы мы могли установить их в нужном порядке!",
+                    "name":"Косопуз",
+                    "char": "kosopuz"
+                }
+            ]
+        },
+        {
+            "id":1302,
+            "body":[
+                {
+                    "text":"Нет, тут точно что-то не так.",
+                    "name":"Косопуз",
+                    "char":"kosopuz"
+                }
+            ]
+        },
+        {
+            "id":1303,
+            "body":[
+                {
+                    "text":"Отлично! У нас получилось! Теперь осталось дождаться Архивариуса.",
+                    "name":"Косопуз",
+                    "char":"kosopuz"
+                }
+            ]
+        },
+        {
+            "id":1304,
+            "body":[
+                {
+                    "text":"Молодцы! Вы мне очень помогли, без вас я бы не справился.",
+                    "name":"Архивариус",
+                    "char":"professor_Physics"
+                },
+                {
+                    "text":"К сожалению, у меня не очень хорошие новости: мои коллеги не знают, где сейчас находится Академик. Я слышал последним его видел Путешественник. <br> Он сейчас в центре города. Поговорите с ним.",
+                    "name":"Архивариус",
+                    "char":"professor_Physics"
+                }                
+            ]
+        },
+        {
+            "id":2001,
+            "body":[
+                {
+                    "text":"Здравствуйте! Вы, наверное, Путешественник? Мы ищем вашего друга Академика. Не могли бы Вы нам помочь?",
+                    "name":"Косопуз",
+                    "char":"kosopuz"
+                },
+                {
+                    "text":"Я бы рад помочь вам, но у меня совершенно нет времени! Я сегодня уезжаю, и мне нужно запланировать свой маршрут.",
+                    "name":"Путешественник",
+                    "char":"traveller"
+                },
+                {
+                    "text":"Может, мы сможем Вам помочь?",
+                    "name":"Косопуз",
+                    "char":"kosopuz"
+                },
+                {
+                    "text":"Уговорили! У меня есть список координат, где я должен побывать. Необходимо все координаты нанести на карту.",
+                    "name":"Путешественник",
+                    "char":"traveller"
+                }
+            ]
+        },
+        {
+            "id":2002,
+            "body":[
+                {
+                    "text":"Нет, не так. Нужно соединять точки по порядку.",
+                    "name":"Косопуз",
+                    "char":"kosopuz"
+                }               
+            ]
+        },
+        {
+            "id":2003,
+            "body":[
+                {
+                    "text":"Спасибо большое! Маршрут построен!",
+                    "name":"Путешественник",
+                    "char":"traveller"
+                },
+                {
+                    "text":"Так, мне нужно двигаться в путь! Но я не знаю, как мне добраться до вокзала! Мой друг, Академик, любитель всяких загадок, прислал мне задачку, сказал, что нужно расставить недостающие слагаемые в формулы. Из номера формулы и номера ответа, я получу номера маршрутов",
+                    "name":"Путешественник",
+                    "char":"traveller"
+                }               
+            ]
+        },
+        {
+            "id":2004,
+            "body":[
+                {
+                    "text":"Спасибо большое! Ответы складываются в названия маршрутов! <b>13 21 34 42</b>",
+                    "name":"Путешественник", 
+                    "char":"traveller"                     
+                },
+                {
+                    "text":"Ох уж этот Академик. Он обожет шифровки в загадки любого вида. Если собираешься его искать, то возьми эту азбуку Морзе. Обязанельно пригодится.",
+                    "name":"Путешественник",
+                    "char":"traveller" 
+                }
+            ]
+        },
+        {
+            "id":3001,
+            "body":[
+                {
+                    "text":"Здравствуйте, мы ищем академика. Вы случайно не знаете где он может быть?",
+                    "name":"Косопуз",
+                    "char":"kosopuz"                    
+                },
+                {
+                    "text":"Академик? А, да, Он был тут недавно.",
+                    "name":"Спортсмен",
+                    "char":"sportsman"
+                },
+                {
+                    "text":"Он ушел куда-то. Я могу написать ему и спросить, но сначала, ребята, вы должны мне помочь.",
+                    "name":"Спортсмен",
+                    "char":"sportsman"
+                },
+                {
+                    "text":"Жюри соревнований решили сделать специальные призы для школьников, которые проходят по приведенным параметрам.",
+                    "name":"Спортсмен",
+                    "char":"sportsman"                    
+                },
+                {
+                    "text":"Выбери всех участников из таблицы, которые подходят хотя бы по одному из критериев.",
+                    "name":"Спортсмен",
+                    "char":"sportsman"                    
+                }                       
+
+            ]
+        },
+        {
+            "id":3101,
+            "body":[
+                {
+                    "text":"Нет, не так.",
+                    "name":"Косопуз", 
+                    "char":"kosopuz"                     
+                }
+            ]
+        },
+        {
+            "id":3102,
+            "body":[
+                {
+                    "text":"Отлично, мы разобрались с заданием!",
+                    "name":"Косопуз", 
+                    "char":"kosopuz"                     
+                },
+                {
+                    "text":"И правда. Спасибо вам, ребята! Я напишу академику и спрошу где он сейчас находится.",
+                    "name":"Спортсмен",
+                    "char":"sportsman"
+                },
+                {
+                    "text":"Он ответил! Но тут только какие-то непонятные черточки...",
+                    "name":"Спортсмен",
+                    "char":"sportsman"
+                },     
+                {
+                    "text":"Наверняка это Код Морзе. Нас предупреждали об этом! Давайте сюда текст, мы сможем прочесть.",
+                    "name":"Косопуз",
+                    "char":"kosopuz"
+                }                     
+            ]
+        },
+        {
+            "id":3201,
+            "body":[
+                {
+                    "text":"Бессмыслица какая-то.",
+                    "name":"Косопуз", 
+                    "char":"kosopuz"                     
+                }
+            ]
+        },
+        {
+            "id":3202,
+            "body":[
+                {
+                    "text":"Городской парк. Похоже подходит! Отправляемся туда, прямо сейчас.",
+                    "name":"Косопуз", 
+                    "char":"kosopuz"                     
+                }
+            ]
+        },
+        {
+            "id":4001,
+            "body":[
+                {
+                    "text":"Отличная работа, ребята. Вы смогли до меня добраться и за это получаете награду.",
+                    "name":"Академик", 
+                    "char":"academy"                     
+                }
+            ]
+        }                      
+
     ]
 }
