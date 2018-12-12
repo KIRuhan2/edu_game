@@ -190,6 +190,7 @@ export default {
           this.page.status = 'mapview'
           this.page.bg = null
           this.page.game = null
+          this.allowedToClick = ['grib_monument']
         break        
         case(3001):
           this.page.status = 'mapview'
