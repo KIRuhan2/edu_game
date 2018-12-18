@@ -12,7 +12,7 @@
                 <div class="table_item">Общее кол-во очков</div>
                 <div class="table_item">Место</div>
             </div>
-            <div class="table_row" @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row" @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Иванова А.</div>
                 <div class="table_item">Ж</div>
                 <div class="table_item">14</div>
@@ -23,7 +23,7 @@
                 <div class="table_item">180</div>
                 <div class="table_item">III</div>                
             </div>  
-            <div class="table_row"  @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row"  @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Петров С.</div>
                 <div class="table_item">М</div>
                 <div class="table_item">12</div>
@@ -34,7 +34,7 @@
                 <div class="table_item">167</div>
                 <div class="table_item"></div>                
             </div>  
-            <div class="table_row"  @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row"  @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Козлов М.</div>
                 <div class="table_item">М</div>
                 <div class="table_item">14</div>
@@ -45,7 +45,7 @@
                 <div class="table_item">146</div>
                 <div class="table_item"></div>                
             </div>
-            <div class="table_row"  @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row"  @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Грачева М.</div>
                 <div class="table_item">Ж</div>
                 <div class="table_item">12</div>
@@ -56,7 +56,7 @@
                 <div class="table_item">159</div>
                 <div class="table_item"></div>                
             </div>              
-            <div class="table_row" @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row" @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Васильева М.</div>
                 <div class="table_item">Ж</div>
                 <div class="table_item">15</div>
@@ -67,7 +67,7 @@
                 <div class="table_item">166</div>
                 <div class="table_item"></div>                
             </div>
-            <div class="table_row" @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row" @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Борзых У.</div>
                 <div class="table_item">Ж</div>
                 <div class="table_item">15</div>
@@ -78,7 +78,7 @@
                 <div class="table_item">131</div>
                 <div class="table_item"></div>                  
             </div>
-            <div class="table_row" @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row" @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Арбузова К.</div>
                 <div class="table_item">Ж</div>
                 <div class="table_item">14</div>
@@ -89,7 +89,7 @@
                 <div class="table_item">117</div>
                 <div class="table_item"></div>                
             </div>  
-            <div class="table_row"  @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row"  @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Лукьянов П.</div>
                 <div class="table_item">М</div>
                 <div class="table_item">14</div>
@@ -100,7 +100,7 @@
                 <div class="table_item">103</div>
                 <div class="table_item"></div>                
             </div>
-            <div class="table_row"  @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row"  @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Русь Д.</div>
                 <div class="table_item">М</div>
                 <div class="table_item">13</div>
@@ -111,7 +111,7 @@
                 <div class="table_item">168</div>
                 <div class="table_item"></div>                
             </div>             
-            <div class="table_row"  @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row"  @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Жеберев О.</div>
                 <div class="table_item">М</div>
                 <div class="table_item">14</div>
@@ -122,7 +122,7 @@
                 <div class="table_item">174</div>
                 <div class="table_item">III</div>                
             </div>  
-            <div class="table_row"  @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row"  @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Вилков М.</div>
                 <div class="table_item">М</div>
                 <div class="table_item">14</div>
@@ -133,7 +133,7 @@
                 <div class="table_item">182</div>
                 <div class="table_item">II</div>                
             </div>              
-            <div class="table_row"  @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row"  @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Моргунов В.</div>
                 <div class="table_item">М</div>
                 <div class="table_item">13</div>
@@ -144,7 +144,7 @@
                 <div class="table_item">157</div>
                 <div class="table_item"></div>                
             </div>  
-            <div class="table_row"  @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row"  @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Сойко В.</div>
                 <div class="table_item">М</div>
                 <div class="table_item">12</div>
@@ -155,7 +155,7 @@
                 <div class="table_item">191</div>
                 <div class="table_item">I</div>                
             </div>  
-            <div class="table_row"  @click.prevent="rowClick($event.path[1].children[0].innerHTML)">
+            <div class="table_row"  @click.prevent="rowClick($event.composedPath()[1].children[0].innerHTML)">
                 <div class="table_item">Тюшина Ю.</div>
                 <div class="table_item">Ж</div>
                 <div class="table_item">13</div>

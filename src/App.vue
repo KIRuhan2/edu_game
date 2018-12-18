@@ -3,7 +3,7 @@
     <startPage v-on:gameStart ="gameStart" v-if="page.status === 'startpage'"></startPage>
     <mapLayout :target ="target" :clickable="allowedToClick" v-if="page.status !== 'startpage'"></mapLayout>
     <dialogLayout  :dialogEnd="dialogEnd"  :dialog="dialogText" v-if="page.status === 'dialog'"></dialogLayout>
-    <location_bg v-show="page.bg" :image="page.bg"></location_bg>
+    <location_bg v-show ="page.bg" :image="page.bg"></location_bg>
     <gameLayout v-if = "page.game" :game= "page.game"/>
     <!-- <div class = "doSave" @click="save.saveBar = true" :class="save.saveBar ? '': 'doSave_hidden'">
       <div class="doSave__close" v-show="save.saveBar" @click.stop="save.saveBar = false">Close</div>
@@ -55,6 +55,7 @@ export default {
         require('./assets/images/pc/ram.png'),
         require('./assets/images/professor2.png'),
         require('./assets/images/kreml_background.jpg'),
+        require('./assets/images/alphabet_morse.png'),
       ],
       test:[],
       save:{

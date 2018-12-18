@@ -1284,20 +1284,35 @@ transform="matrix(1.3200375,0,0,1.3581282,808.78731,-186.46256)">
   }
 
   .grib_monument{
+    clip-rule: evenodd;
+    fill-rule: evenodd;
+    shape-rendering: geometricprecision;
+    pointer-events: bounding-box;
+    text-rendering: geometricprecision;      
     transform:matrix(0.20842787,0,0,0.21444223,419.36068,-1.3393938);
 
   }
 
   .grib_monument_active{
     cursor: pointer;
+    transition: 0.3s;
+  }
+
+  .grib_monument_active:hover{
+      transform:matrix(0.20842787,0,0,0.21444223,419.36068,-1.3393938) scale(1.2);
   }
 
   .center{
-      
+
   }
 
   .center_active{
-      cursor: pointer;
+    cursor: pointer;
+  }
+
+  .center_active:hover{
+      transform: scale(1.3) translateX(-165px);
+      transition: .2s;
   }
 
   .kreml_wrap{
